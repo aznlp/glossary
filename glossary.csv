@@ -37,15 +37,11 @@ Support vector machine,Dayaq vektor maşını
 Naive Bayes,Sadəlövh Bayes
 Hidden Markov model,Gizli Markov modeli
 Bag of words,Sözlər çoxluğu
-Restricted Boltzmann machine,Məhdud Bolsman maşını
-Deep belief network,Dərin inam şəbəkəsi
 Hidden layer,Gizli lay
 Overfitting,İfrat uyğunlaşma
 Activation function,Aktivasiya funksiyası
 Step function,Addım funksiyası
 Feeding forward,İrəli yayılma
-Backpropagation,Əksyayılma
-Gradient descent,Qradiyent enmə
 Error function,Xəta funksiyası
 Mean squared error,Orta kvadratik xəta
 Cross entropy,Çarpaz entropiya
